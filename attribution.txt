@@ -1,0 +1,6 @@
+wall textures: https://www.vecteezy.com/photo/29189990-close-ups-of-vibrant-coral-reef-underwater-textures-background-with-empty-space-for-text
+
+cube texture: https://polyhaven.com/a/venice_sunset
+Convert from https://matheowis.github.io/HDRI-to-CubeMap/
+from HDR to png
+
