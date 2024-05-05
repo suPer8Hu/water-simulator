@@ -4,7 +4,8 @@ Research project-water flow simulator
 
 See 4-project.txt attached.
 
-## This dynamic web project features an interactive three-dimensional water simulation, crafted with the robust Three.js library, 
+## Project Description 
+This dynamic web project features an interactive three-dimensional water simulation, crafted with the robust Three.js library, 
 deployed on an HTML canvas. Users can add ripples and waves by interacting directly or through the interface controls.To enrich 
 the sensory experience, audio integration plays atmospheric sounds matching the visual effects, such as a rainstorm, which is 
 activated via a button. The simulation includes several HTML buttons like "Add Random Drops," which introduces spontaneous water
