@@ -11,7 +11,7 @@ audio. There's also a "Reset" button that returns the simulation to its initial 
 pristine starting point. Key technical aspects include the use of WebGL shaders for realistic water rendering, audio handling 
 through the Web Audio API for real-time sound effects, and the use of raycasting for interactive droplet addition. 
 
-
+Project link: https://github.com/suPer8Hu/water-simulator
 
 
 
